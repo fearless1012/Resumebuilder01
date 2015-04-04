@@ -1,0 +1,13 @@
+c:\users\divya\documents\visual studio 2012\Projects\Resume_Builder\Resume_Builder\bin\Debug\resources.pri
+c:\users\divya\documents\visual studio 2012\Projects\Resume_Builder\Resume_Builder\bin\Debug\AppxManifest.xml
+c:\users\divya\documents\visual studio 2012\Projects\Resume_Builder\Resume_Builder\bin\Debug\Resume_Builder.build.appxrecipe
+c:\users\divya\documents\visual studio 2012\Projects\Resume_Builder\Resume_Builder\bld\Debug\priconfig.xml.intermediate
+c:\users\divya\documents\visual studio 2012\Projects\Resume_Builder\Resume_Builder\bld\Debug\layout.resfiles.intermediate
+c:\users\divya\documents\visual studio 2012\Projects\Resume_Builder\Resume_Builder\bld\Debug\resources.resfiles.intermediate
+c:\users\divya\documents\visual studio 2012\Projects\Resume_Builder\Resume_Builder\bld\Debug\pri.resfiles.intermediate
+c:\users\divya\documents\visual studio 2012\Projects\Resume_Builder\Resume_Builder\bld\Debug\priconfig.xml
+c:\users\divya\documents\visual studio 2012\Projects\Resume_Builder\Resume_Builder\bld\Debug\layout.resfiles
+c:\users\divya\documents\visual studio 2012\Projects\Resume_Builder\Resume_Builder\bld\Debug\resources.resfiles
+c:\users\divya\documents\visual studio 2012\Projects\Resume_Builder\Resume_Builder\bld\Debug\pri.resfiles
+c:\users\divya\documents\visual studio 2012\Projects\Resume_Builder\Resume_Builder\bld\Debug\LanguageQualifiers.txt
+c:\users\divya\documents\visual studio 2012\Projects\Resume_Builder\Resume_Builder\bld\Debug\ProjectArchitectures.txt

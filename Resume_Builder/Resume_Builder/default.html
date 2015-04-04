@@ -1,0 +1,88 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="keywords" content="Resume editor" />
+    <meta name="description" content="Resume editor" />
+    <title>Resume_Builder</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+    <!-- Resume_Builder references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+</head>
+<body>
+    <div id="first">
+        <form name="myForm" action="putresume()" onsubmit="return validateForm()" method="post">
+        <h1>Resume Builder</h1>
+        <h4>Please fill all entries.</h4>
+        <label class="one">
+            <span>Name :</span>&nbsp;
+            <input class="ad" name="dname" type="text" placeholder="Enter Full Name" required>
+            <span>Gender :</span>
+            <input class="male" name="gender" type="radio" value="male">Male
+            <input class="female" name="gender" type="radio" value="female">Female
+        </label>
+        <label class="two">
+            <span>Email :</span>&nbsp;
+             
+            <input class="ad" id="demail" name="demail" type="email" placeholder="Enter Email address" required>
+        </label>
+        <label class="two">
+           
+            <span>Phone :</span>&nbsp;
+            <input class="ad" name="dphone" type="tel" placeholder="Enter Phone Number" required>
+        </label>
+        
+        <label class="four">
+            <span>Address :</span>&nbsp;&nbsp;
+            <div class="ad">
+            
+                <input name="street_address" id="street_address" type="text" placeholder="Enter Street Address" required>
+                                                
+            
+                <input = name="City" id="Text1" type="text" placeholder="Enter City" required>
+            
+            
+                <input  name="state" id="Text2" type="text" placeholder="Enter state" required>
+           
+            
+                <input name="Zip" id="Text3" type="number" placeholder="Enter Zip" required>
+            
+           
+                <input name="Country" id="Number1" type="text" placeholder="Enter Country" required>
+            
+               
+                
+                </div>
+        </label>
+         <label class="five">
+            <span>Education(Highest degree) :</span>&nbsp;&nbsp;
+            <div class="ad">
+            
+                <input name="School" id="Text4" type="text" placeholder="Enter Street Address" required>
+            
+
+                <input = name="Feild" id="Text8" type="text" placeholder="Enter Feild of Study" required>
+
+                <input = name="Degree" id="Text9" type="text" placeholder="Enter Degree" required>
+
+
+                <input = name="year" id="Text7" type="date" placeholder="Enter Graduation date" required>
+            
+           </div>
+        </label>
+            <label class="six">
+                    <span>Acheivements :</span>&nbsp;
+            <textarea class="msg" name="msg">
+            </textarea>
+              </label>
+        <input class="submit" name="dsubmit" type="submit" value="Submit">
+        </form>
+    </div>
+</body>
+</html>
